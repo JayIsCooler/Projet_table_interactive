@@ -15,7 +15,7 @@
 ### Artistique/Esthétique
 ![saisons](médias/saisons.png)
 ### Technique/Technologique
-
+![technologique](médias/spat.png)
 
 ## Concept spécifique
 ### Simulation visuelle attrayante
