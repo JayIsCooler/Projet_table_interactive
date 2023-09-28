@@ -7,7 +7,7 @@
 4 saisons/nature
 ### Espace
 ![espace](img/Plan-devant.png)
-![espace](img/plan-haut.png)
+![espace](img/Plan-haut.png)
 
 ## Inspirations 
 ### Conceptuelles
