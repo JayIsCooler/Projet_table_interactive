@@ -2,7 +2,7 @@
 
 
 ## Concept général
-Notre projet est une table intéractive qui a comme thème les 4 saisons. Lorsque nous placerions une statuette sur la table un son serait activer en lien avec la saison choisi. Ce son jourais plus proche de l'endroit ou il à été placer. Une fois la statuette placer les projecteurs afficheraient des lignes de couleurs qui agirait de façon différente dépendamment de la statuette. Les projections auraient chacune deux haut-parleurs chacune et diffuserait des drones en lien avec ce qui est afficher. Nous pourrions placer deux statuettes à la fois pous mélanger les couleurs et créer de nouveaux sons. 
+Notre projet est une table intéractive qui a comme thème les 4 saisons. Lorsque nous placerions une statuette sur la table un son serait activer en lien avec la saison choisi. Ce son jourais plus proche de l'endroit ou il à été placer.
 
 
 ### Thème
@@ -23,7 +23,7 @@ Pour l'esthétique les projections afficherait des lignes de différentes couleu
 Pour la technologie utiliser, nous utiliserions spat pour le son, max pour la vidéo et une caméra pour détecter les statuettes.
 
 ## Concept spécifique
-### Simulation visuelle attrayante
+Une fois la statuette placer, les trois projecteurs afficheraient des lignes de couleurs qui agirait de façon différente dépendamment de la statuette. Les projections auraient chacune deux haut-parleurs chacune et diffuserait des drones en lien avec ce qui est afficher. Nous pourrions placer deux statuettes à la fois pous mélanger les couleurs et créer de nouveaux sons. 
 
 
 ## Reconnaissance de limites/défis
