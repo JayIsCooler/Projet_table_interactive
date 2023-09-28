@@ -13,7 +13,7 @@
 ### Conceptuelles
 ![saisons](médias/saisons.png)
 ### Artistique/Esthétique
-
+![abstrait](médias/abstrait.png)
 ### Technique/Technologique
 ![technologique](médias/spat.png)
 
