@@ -24,7 +24,7 @@ Pour l'esthétique les projections afficheraient des lignes de différentes coul
 ![technologique](médias/spat.png)
 ![technologique](médias/max.png)
 
-Pour la technologie utilisée, nous utiliserions Spat pour le son, Max pour la vidéo, une caméra pour détecter les statuettes et les projecteurs.
+Pour la technologie utilisée, nous utiliserions Spat pour le son, Max pour la vidéo, une caméra pour détecter les statuettes et des projecteurs.
 
 ## Concept spécifique
 Une fois la statuette placée, les trois projecteurs afficheraient des lignes de couleurs qui agiraient de façon différente dépendamment de la statuette ou un hologramme qui afficherait des particules en lien avec la saison comme de la neige pour l'hiver ou de la pluie pour le printemps. Les projections auraient chacune deux haut-parleurs et diffuseraient des drones en lien avec ce qui est afficher. Nous pourrions placer deux statuettes à la fois pour mélanger les couleurs et créer de nouveaux sons. 
