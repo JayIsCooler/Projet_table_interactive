@@ -20,7 +20,7 @@ L'inspiration conceptuelle serait en lien avec les 4 saisons et ces différents 
 Pour l'esthétique les projections afficherait des lignes de différentes couleurs qui pourrait se jumeler si l'ont place plusieurs statuettes en même temps. Les couleurs et la formes de ces lignes serait déterminé par la saison et leur vitesse aussi.
 ### Technique/Technologique
 ![technologique](médias/spat.png)
----
+
 Pour la technologie utiliser, nous utiliserions spat pour le son, max pour la vidéo et une caméra pour détecter les statuettes.
 
 ## Concept spécifique
