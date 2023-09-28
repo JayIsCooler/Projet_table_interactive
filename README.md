@@ -6,8 +6,8 @@
 ### Thème
 4 saisons/nature
 ### Espace
-![espace](img/Plan-devant.png)
-![espace](img/Plan-haut.png)
+![espace](médias/Plan-devant.png)
+![espace](médias/Plan-haut.png)
 
 ## Inspirations 
 ### Conceptuelles
