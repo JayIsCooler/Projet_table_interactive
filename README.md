@@ -18,7 +18,7 @@ L'inspiration conceptuelle serait en lien avec les 4 saisons et ses différents 
 ### Artistique/Esthétique
 ![abstrait](médias/abstrait.png)
 ![climat](médias/neige.gif)
-
+---
 Pour l'esthétique les projections afficheraient des lignes de différentes couleurs qui pourrait se jumeler si l'on place plusieurs statuettes en même temps ou des hologrammes qui afficheraient des climat de saison. Les couleurs et la forme de ces lignes seraient déterminées par la saison et leur vitesse aussi.
 ### Technique/Technologique
 ![technologique](médias/spat.png)
