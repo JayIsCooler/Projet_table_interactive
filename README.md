@@ -11,9 +11,9 @@
 
 ## Inspirations 
 ### Conceptuelles
-
-### Artistique/Esthétique
 ![saisons](médias/saisons.png)
+### Artistique/Esthétique
+
 ### Technique/Technologique
 ![technologique](médias/spat.png)
 
