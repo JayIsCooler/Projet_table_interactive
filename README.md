@@ -11,7 +11,9 @@
 
 ## Inspirations 
 ### Conceptuelles
+
 ### Artistique/Esthétique
+![saisons](médias/saisons.png)
 ### Technique/Technologique
 
 
@@ -24,4 +26,4 @@
 
 
 ### Matériels
-Haut-parleur
+Haut-parleurs de petite taille et peu couteux
